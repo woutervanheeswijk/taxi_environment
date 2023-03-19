@@ -1,4 +1,4 @@
-# taxi_environment
+# Taxi environment
 A Q-learning implementation for OpenAIs Taxi-v3 environment. The notebook can be used as a tutorial for beginners in Reinforcement Learning.
 
 The following sources were used in constructing this notebook:
